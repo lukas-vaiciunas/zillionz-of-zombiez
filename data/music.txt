@@ -1,0 +1,3 @@
+2
+1 audio/music/forest-ambience.ogg
+2 audio/music/LonePeakMusic-Silk-Holster.ogg

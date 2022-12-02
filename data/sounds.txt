@@ -1,0 +1,9 @@
+8
+1 audio/sounds/weapon-swap.ogg
+11 audio/sounds/gunshot-warmalite.ogg
+21 audio/sounds/eat.ogg
+22 audio/sounds/footstep.ogg
+31 audio/sounds/break-tile.ogg
+32 audio/sounds/damage-tile.ogg
+41 audio/sounds/death.ogg
+42 audio/sounds/bite.ogg
